@@ -16,3 +16,6 @@ A curated collection of the best Shadcn/UI resources — components, templates, 
 
 - https://www.retroui.dev/docs
 
+## Charts
+
+- https://evilcharts.com/
