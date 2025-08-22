@@ -18,4 +18,9 @@ A curated collection of the best Shadcn/UI resources — components, templates, 
 
 ## Charts
 
-- https://evilcharts.com/
+- https://evilcharts.com
+
+## 
+
+- https://www.diceui.com/
+- https://tablecn.com/
